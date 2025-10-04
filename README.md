@@ -14,9 +14,6 @@ A full-stack e-commerce web application inspired by JobApp, built with React.JS,
 - [Available Scripts](#available-scripts)
 - [Tech Stack](#tech-stack)
 - [Folder Overview](#folder-overview)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Structure
 
